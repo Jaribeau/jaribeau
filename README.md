@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hey, welcome! 👋
+#### Things I'm into  
+🌱 Impact (social and sustainability)  
+🛠️ Engineering (software and robotics)  
+🏂 Adventure (all sorts)  
+
+You can see some past work on [💻my website](https://jareds.site/)
+
+#### What I'm working on  
+📱 Bringing [Presh](https://presh.app/) to Android
+
 
 <!--
 **Jaribeau/jaribeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
