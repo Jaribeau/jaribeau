@@ -6,7 +6,9 @@
 
 You can see some past work on [💻my website](https://jareds.site/)
 
-#### What I'm working on  
+#### What I'm currently working on  
+🔎 Studying eval-awareness in LLMs: [Systematic decomposition of what an LLM realism judge responds to](https://github.com/Jaribeau/eval-realism-judge-feature-analysis)  
+🧠 Building a tech support AI agent for Smartex.ai  
 📱 Bringing [Presh](https://presh.app/) to Android
 
 
