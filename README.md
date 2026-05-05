@@ -1,13 +1,13 @@
 ## Hey, welcome! 👋
-#### Things I'm into  
+#### Some Things I'm into  
 🌱 Impact (social and sustainability)  
 🛠️ Engineering (software and robotics)  
 🏂 Adventure (all sorts)  
 
-You can see some past work on [💻my website](https://jareds.site/)
+You can see some of my past work on [💻my website](https://jareds.site/)
 
 #### What I'm currently working on  
-🔎 Studying AI Safety (eval-awareness): [Systematic decomposition of what an LLM realism judge responds to](https://github.com/Jaribeau/eval-realism-judge-feature-analysis)  
+🔎 Studying AI Safety (eval-awareness): [What Makes an Eval Look Fake? A Controlled Ablation Study of Realism Judge Sensitivity](https://github.com/Jaribeau/eval-realism-judge-feature-analysis)  
 🧠 Building a tech support AI agent for Smartex.ai  
 📱 Bringing [Presh](https://presh.app/) to Android  
 👀 Deciding on my next full-time mission... Want to chat?  
