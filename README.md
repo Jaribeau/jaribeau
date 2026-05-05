@@ -1,3 +1,7 @@
+<img width="1248" height="570" alt="jared's website" src="https://github.com/user-attachments/assets/df743052-8547-4e96-9134-6add13991a42" />
+<a href="https://jareds.site/" target="_blank">🔗 My website</a>  
+
+
 ## Hey, welcome! 👋
 #### Some Things I'm into  
 🌱 Impact (social and sustainability)  
@@ -11,19 +15,3 @@ You can see some of my past work on [💻my website](https://jareds.site/)
 🧠 Building a tech support AI agent for Smartex.ai  
 📱 Bringing [Presh](https://presh.app/) to Android  
 👀 Deciding on my next full-time mission... Want to chat?  
-
-
-<!--
-**Jaribeau/jaribeau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
